@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeroldtorregoza&label=Profile%20views&color=0e75b6&style=flat" alt="aeroldtorregoza" /> </p>
 
+At New Era University, I'm a 3rd-year computer science student. I have a strong interest in programming, technology, and education. A little about who I am:
+
 - 🌱 I’m currently learning: **C# and other programming languages.**
 
 - 👨‍💻 All of my projects are available at: [Google Site](https://sites.google.com/neu.edu.ph/adtorregoza/home?)
