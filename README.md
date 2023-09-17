@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **C# and other programming languages.**
 
-- 👨‍💻 All of my projects are available at: [Google Site}(https://sites.google.com/neu.edu.ph/adtorregoza/home?)
+- 👨‍💻 All of my projects are available at: [Google Site](https://sites.google.com/neu.edu.ph/adtorregoza/home?)
 - 💬 Ask me about: **Editing and Design Stuffs.**
 
 - 📫 How to reach me: **aeroldtorregoza3@gmail.com**
