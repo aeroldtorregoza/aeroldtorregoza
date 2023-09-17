@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **aeroldtorregoza3@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1qM-p6S_iVi6jN1m_uw2U9z2BDhWQFU3j/view?usp=share_link](https://drive.google.com/file/d/1qM-p6S_iVi6jN1m_uw2U9z2BDhWQFU3j/view?usp=share_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1qM-p6S_iVi6jN1m_uw2U9z2BDhWQFU3j/view)
 
 - ⚡ Fun fact **When I go on vacation, I prefer to do adventurous activities more than I enjoy relaxing.**
 
