@@ -48,7 +48,8 @@ At New Era University, I'm a 3rd-year computer science student. I have a strong 
 
 <h3 align="left">Data Visualization:</h3>
 
- [Soda Report for 2022](https://public.tableau.com/app/profile/aerold.torregoza/viz/AwesomeChocolateDashboardReport_17150827809540/Dashboard1?publish=yes&fbclid=IwZXh0bgNhZW0CMTAAAR37EBX0ZIzq91kfiUTeMZe8lOY1sRsUMYOVpGHMg2AEbBwUyNqMNMzR9Qg_aem_AbHe3oghsKsJA149Gkww6d2CCdOamX8GPKRLmLAXv-XKhWnZCHBqu-WiVJbeO-wCb1HeLJ2GOfUR5I6xmG2isB9t)
+ [Soda Report for 2022](https://app.powerbi.com/view?r=eyJrIjoiMTM1ZmU1MzYtZmU3NC00Zjk2LWJjMzgtOGIwNDE5YjcyMGFmIiwidCI6IjNhMzI1MTg0LTQ2MzItNGI1ZS1iOWVkLWU5ZTE2NmUxMTgxZSIsImMiOjEwfQ%3D%3D)
+ [Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiZWI1N2JmYzUtYTBjNi00ZGZmLTkyODAtOTQ2ZDdhM2JmM2U0IiwidCI6IjNhMzI1MTg0LTQ2MzItNGI1ZS1iOWVkLWU5ZTE2NmUxMTgxZSIsImMiOjEwfQ%3D%3D)
 
 [Awesome Chocolate Dashboard Report](https://public.tableau.com/app/profile/aerold.torregoza/viz/AwesomeChocolateDashboardReport_17150827809540/Dashboard1?publish=yes&fbclid=IwZXh0bgNhZW0CMTAAAR37EBX0ZIzq91kfiUTeMZe8lOY1sRsUMYOVpGHMg2AEbBwUyNqMNMzR9Qg_aem_AbHe3oghsKsJA149Gkww6d2CCdOamX8GPKRLmLAXv-XKhWnZCHBqu-WiVJbeO-wCb1HeLJ2GOfUR5I6xmG2isB9t)
 
