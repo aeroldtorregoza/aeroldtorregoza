@@ -1,6 +1,6 @@
 <img align="Center" alt="Coding" height="440" width="1000" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <h1 align="center">Hi 👋, I'm Aerold</h1>
-<h3 align="center">Future UI Designer/CyberSecurity</h3>
+<h3 align="center">Future Data Analyst/CyberSecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeroldtorregoza&label=Profile%20views&color=0e75b6&style=flat" alt="aeroldtorregoza" /> </p>
 
@@ -33,3 +33,48 @@ At New Era University, I'm a 3rd-year computer science student. I have a strong 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeroldtorregoza&show_icons=true&locale=en" alt="aeroldtorregoza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aeroldtorregoza&" alt="aeroldtorregoza" /></p>
+
+<h3 align="left">Certifications:</h3>
+  <a href="https://courses.cognitiveclass.ai/certificates/a1e3a628525a4a9b8f2210cc29d067e2#"> SQL and Relational Databases 101</a>
+  <br>
+   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=97AB4C4862D2C3129762D710D57C7EBA04B32774BCC96A7E4A2841804BC4E6E8&fbclid=IwAR2uwSQGmRFvfuoFNw4ZX-cLTCzeCoVxYcaHyDAXxW05XOu7CAH0Ew4RX6A"> Oracle Cloud Data Management 2022 Foundations Certified Associate </a>
+  <br>
+   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B90A52767CE745045B89B2B12EFEA01772828D26C16A8AC54A41AFA3161A0E7C&fbclid=IwAR2RmX94HFdBfgo7PBCLyZyGhDOLTp1Xu_bkJEw1fq1_ZWrYm-9mvCZJ9E0"> Oracle Cloud Infrastructure Foundations 2022 Certified Associate</a>
+  <br>
+  <a href="https://simpli-web.app.link/e/IJla0vw98Kb"> Business Analytics with Excel</a>
+  <br>
+ 
+  
+
+<h3 align="left">Data Visualization:</h3>
+
+ [Soda Report for 2022](https://public.tableau.com/app/profile/aerold.torregoza/viz/AwesomeChocolateDashboardReport_17150827809540/Dashboard1?publish=yes&fbclid=IwZXh0bgNhZW0CMTAAAR37EBX0ZIzq91kfiUTeMZe8lOY1sRsUMYOVpGHMg2AEbBwUyNqMNMzR9Qg_aem_AbHe3oghsKsJA149Gkww6d2CCdOamX8GPKRLmLAXv-XKhWnZCHBqu-WiVJbeO-wCb1HeLJ2GOfUR5I6xmG2isB9t)
+
+[Awesome Chocolate Dashboard Report](https://public.tableau.com/app/profile/aerold.torregoza/viz/AwesomeChocolateDashboardReport_17150827809540/Dashboard1?publish=yes&fbclid=IwZXh0bgNhZW0CMTAAAR37EBX0ZIzq91kfiUTeMZe8lOY1sRsUMYOVpGHMg2AEbBwUyNqMNMzR9Qg_aem_AbHe3oghsKsJA149Gkww6d2CCdOamX8GPKRLmLAXv-XKhWnZCHBqu-WiVJbeO-wCb1HeLJ2GOfUR5I6xmG2isB9t)
+
+ <h3 align="left">Design Patterns:</h3>
+  <a href="https://github.com/aeroldtorregoza/facadePattern">Facade Pattern</a>
+  <br>
+  <a href="https://github.com/aeroldtorregoza/adapterPattern">Adapter Pattern</a>
+  <br>
+  <a href="https://github.com/aeroldtorregoza/observerPattern">Observer Pattern</a>
+  <br>
+  <a href="https://github.com/aeroldtorregoza/strategyPattern">Strategy Pattern</a>
+  <br>
+  <a href="https://github.com/aeroldtorregoza/solidWithDesignPattern">SolidWithDesign Pattern</a>
+  <br>
+
+ <h3 align="left">Skill Set:</h3>
+ 
+Data Visualization Tools :  PowerBI Desktop, Tableau Public
+
+Programming Languages: Java, Python
+
+DBMS: DB2
+
+Dev Tools: JasperSoft Studio, Lucidchart, Eclipse, etc..
+ 
+
+
+
+
