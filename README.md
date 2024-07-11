@@ -66,13 +66,13 @@ At New Era University, I'm a 3rd-year computer science student. I have a strong 
 
  <h3 align="left">Skill Set:</h3>
  
-Data Visualization Tools :  PowerBI Desktop, Tableau Public
+Data Visualization Tools :  `PowerBI Desktop`, `Tableau Public`
 
-Programming Languages: Java, Python
+Programming Languages: `Java`, `Python`
 
-DBMS: DB2
+DBMS: `DB2`
 
-Dev Tools: JasperSoft Studio, Lucidchart, Eclipse, etc..
+Dev Tools: `JasperSoft Studio`, `Lucidchart`, `Eclipse`, `etc..`
  
 
 
