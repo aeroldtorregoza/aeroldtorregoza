@@ -43,6 +43,8 @@ At New Era University, I'm a 3rd-year computer science student. I have a strong 
   <br>
   <a href="https://simpli-web.app.link/e/IJla0vw98Kb"> Business Analytics with Excel</a>
   <br>
+  <a href="https://www.credly.com/badges/83fdd820-c2ac-4962-81e8-cf60ed1d3197"> Data Analytics Essentials</a>
+  <br>
  
   
 
